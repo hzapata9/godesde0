@@ -13,7 +13,7 @@ func ReturnTwoValues(param string) (valor int, salida string) {
 		log.Fatal(err)
 	} else {
 		if valor > 100 {
-			salida = "Es Mayor a 100"
+			salida = "Es MAYOR a 100"
 		} else {
 			salida = "Es Menor a 100"
 		}
