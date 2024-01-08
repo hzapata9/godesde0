@@ -1,8 +1,6 @@
 package main
 
 import (
-	"fmt"
-
 	"github.com/hzapata9/godesde0/ejercicios"
 )
 
@@ -31,8 +29,14 @@ func main() {
 */
 
 func main() {
+	/*
+				numero, texto := ejercicios.ReturnTwoValues("wwwww")
+				fmt.Println(numero)
+				fmt.Println(texto)
 
-	numero, texto := ejercicios.ReturnTwoValues("10")
-	fmt.Println(numero)
-	fmt.Println(texto)
+		teclado.IngresoNumeros()
+
+		iteraciones.Iterar()
+	*/
+	ejercicios.IngresarNumero()
 }
