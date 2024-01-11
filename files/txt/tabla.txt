@@ -1,0 +1,11 @@
+Tabla númerica  1  :  9
+Tabla númerica  2  :  18
+Tabla númerica  3  :  27
+Tabla númerica  4  :  36
+Tabla númerica  5  :  45
+Tabla númerica  6  :  54
+Tabla númerica  7  :  63
+Tabla númerica  8  :  72
+Tabla númerica  9  :  81
+Tabla númerica  10  :  90
+

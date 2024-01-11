@@ -1,8 +1,6 @@
 package main
 
-import (
-	"github.com/hzapata9/godesde0/ejercicios"
-)
+//"github.com/hzapata9/godesde0/files"
 
 /*import (
 	"fmt"
@@ -10,6 +8,7 @@ import (
 
 	"github.com/hzapata9/godesde0/variables"
 )
+
 
 func main() {
 	variables.MuestraEntyeros()
@@ -26,7 +25,17 @@ func main() {
 		fmt.Println("Es otro: ", os)
 	}
 }
+
+
+import (
+	e "github.com/hzapata9/godesde0/ejer_interfaces"
+	"github.com/hzapata9/godesde0/modelos"
+)
 */
+
+import (
+	d "github.com/hzapata9/godesde0/defer_panic"
+)
 
 func main() {
 	/*
@@ -38,5 +47,20 @@ func main() {
 
 		iteraciones.Iterar()
 	*/
-	ejercicios.IngresarNumero()
+	//fmt.Println(ejercicios.IngresarNumero())
+
+	//files.GrabaTabla()
+
+	//files.SumaTabla()
+
+	//users.AltaUsuario()
+	/*
+		Pedro := new(modelos.Hombre)
+		e.HumanoRespirando(Pedro)
+
+		Maria := new(modelos.Mujer)
+		e.HumanoEstaVivo(Maria)
+	*/
+
+	d.VamosDefer()
 }
