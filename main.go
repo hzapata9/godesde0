@@ -62,5 +62,6 @@ func main() {
 		e.HumanoEstaVivo(Maria)
 	*/
 
-	d.VamosDefer()
+	//d.VamosDefer()
+	d.EjemploPanic()
 }
